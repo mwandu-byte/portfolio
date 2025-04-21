@@ -1,0 +1,10 @@
+body {
+    scroll-behavior: smooth;
+  }
+  .card:hover {
+    transform: scale(1.03);
+    transition: 0.3s ease-in-out;
+  }
+    .card {
+        transition: 0.3s ease-in-out;
+    }  
